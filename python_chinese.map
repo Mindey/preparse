@@ -1,0 +1,29 @@
+中蟒快速入门
+
+中蟒保留字表
+
+假如你已很熟Python 的用法, 这里只记录中英对照版本, 可以作为快速入门.
+
+写 ..(print)
+删除 ..(del)
+定义/函数 (def)
+忽略 (pass)
+中断 (break)
+下一个 (continue)
+传回 (return)
+示警 (raise)
+载入 ... 名 ... (import ... as ...)
+从 ... 载入 ...
+共用 (global)
+执行 (exec)
+断言 (assert)
+如.. 不然.. 否则.. (if .. elif .. else ..)
+只要 .. 否则 .. (while .. else ..)
+取 .. 自 .. 然后 .. (for .. in .. else ..)
+试.. 失败.. 否则.. 然后.. (try .. exc​​ept .. else .. finally .. )
+概念/类别 (class)
+来自/不来自 (in / not in)
+是/不是 (is / is not)
+或 or
+且 and
+不是 not
