@@ -24,6 +24,7 @@ The wrapper interpreter would have to be able to tokenize code exactly as the or
 
 For example, it has been suggested to use the following words in case of Chinese version of Python.
 
+```
 写 ..(print)
 删除 ..(del)
 定义/函数 (def)
@@ -47,7 +48,7 @@ For example, it has been suggested to use the following words in case of Chinese
 或 or
 且 and
 不是 not
-
+```
 
 # Potentially useful links:
 
